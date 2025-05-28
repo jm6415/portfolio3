@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.a6d353e7.js",
+    "main.js": "/static/js/main.f30b1a3e.js",
     "static/media/4_marine.png": "/static/media/4_marine.2870713c89e94b19f952.png",
     "static/media/5_oceanmap2.png": "/static/media/5_oceanmap2.5893f7b80d9400ce522e.png",
     "static/media/1_khoa.png": "/static/media/1_khoa.8ac1a5ec6fa581445988.png",
@@ -20,9 +20,9 @@
     "static/media/4_marine3.png": "/static/media/4_marine3.40334fb12ab5c61fb49f.png",
     "static/media/7.ioc2.png.jpg": "/static/media/7.ioc2.png.e172f803f25e20908a84.jpg",
     "index.html": "/index.html",
-    "main.a6d353e7.js.map": "/static/js/main.a6d353e7.js.map"
+    "main.f30b1a3e.js.map": "/static/js/main.f30b1a3e.js.map"
   },
   "entrypoints": [
-    "static/js/main.a6d353e7.js"
+    "static/js/main.f30b1a3e.js"
   ]
 }
