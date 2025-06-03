@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.f30b1a3e.js",
+    "main.js": "/static/js/main.0479926b.js",
     "static/media/4_marine.png": "/static/media/4_marine.2870713c89e94b19f952.png",
     "static/media/5_oceanmap2.png": "/static/media/5_oceanmap2.5893f7b80d9400ce522e.png",
     "static/media/1_khoa.png": "/static/media/1_khoa.8ac1a5ec6fa581445988.png",
     "static/media/1_khoa3.png": "/static/media/1_khoa3.33575dd534d442d524a2.png",
     "static/media/4_marine2.png": "/static/media/4_marine2.cb9250435db8ec0afbcc.png",
-    "static/media/6_tp.png": "/static/media/6_tp.9b1f7ca9b555b402a025.png",
-    "static/media/6_tp2.png": "/static/media/6_tp2.ea101d1a82df60cb30a0.png",
-    "static/media/6_tp3.png": "/static/media/6_tp3.d4698f2ebedcc200d38b.png",
+    "static/media/8_tp.png": "/static/media/8_tp.9b1f7ca9b555b402a025.png",
+    "static/media/8_tp2.png": "/static/media/8_tp2.ea101d1a82df60cb30a0.png",
     "static/media/3_oceanmap.png": "/static/media/3_oceanmap.2f5a655d7465bce24b2b.png",
     "static/media/2_kofdi3.png": "/static/media/2_kofdi3.82b3cd8eebf19d64bbd8.png",
     "static/media/5_oceanmap.png": "/static/media/5_oceanmap.37f8554235fb824fa370.png",
@@ -16,13 +15,17 @@
     "static/media/2_kofdi2.png": "/static/media/2_kofdi2.1747d473065d95270c9b.png",
     "static/media/myPic.jpg": "/static/media/myPic.5dd4cb5bc97fbd5cb39e.jpg",
     "static/media/1_khoa2.png": "/static/media/1_khoa2.5c24324571646afae74e.png",
-    "static/media/7.ioc.png.jpg": "/static/media/7.ioc.png.17b0a35c7ab439334007.jpg",
+    "static/media/6_nursery.png": "/static/media/6_nursery.a50a0f496440498528e2.png",
+    "static/media/9_ioc.png": "/static/media/9_ioc.17b0a35c7ab439334007.png",
+    "static/media/7_tp.png": "/static/media/7_tp.ebc38a1108c4314064b2.png",
     "static/media/4_marine3.png": "/static/media/4_marine3.40334fb12ab5c61fb49f.png",
-    "static/media/7.ioc2.png.jpg": "/static/media/7.ioc2.png.e172f803f25e20908a84.jpg",
+    "static/media/6_nursery2.png": "/static/media/6_nursery2.872d7ee3575d726937dd.png",
+    "static/media/9_ioc2.png": "/static/media/9_ioc2.e172f803f25e20908a84.png",
+    "static/media/7_tp2.png": "/static/media/7_tp2.d02827b15df65f5570a6.png",
     "index.html": "/index.html",
-    "main.f30b1a3e.js.map": "/static/js/main.f30b1a3e.js.map"
+    "main.0479926b.js.map": "/static/js/main.0479926b.js.map"
   },
   "entrypoints": [
-    "static/js/main.f30b1a3e.js"
+    "static/js/main.0479926b.js"
   ]
 }
